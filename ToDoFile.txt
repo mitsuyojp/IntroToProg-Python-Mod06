@@ -1,0 +1,4 @@
+Dishes,High
+Window,HIgh
+Garbage,High
+dishes,high
